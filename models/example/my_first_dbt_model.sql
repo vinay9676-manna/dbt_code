@@ -11,7 +11,11 @@
 
 with source_data as (
 
+<<<<<<< HEAD
     select 26 as id
+=======
+    select 25 as id
+>>>>>>> a30ab9c12de6a145c689576e16a0e06836a19a38
     union all
     select null as id
 
